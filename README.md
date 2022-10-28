@@ -1,6 +1,6 @@
 Library System
 
-This is an library management back-end system, created using Java Spring Boot, that could be linked to a front-end to make API calls to an library database. It has various CRUD (Create, Read, Update, Delete) functionalities to maintain the system and keep it updated. It is split into two tables. A table for books and a table for categories. This system is designed to make it more convenient for libararies to store, update and maintain data. 
+This is an library management back-end system, created using Java Spring Boot, that could be linked to a front-end to make API calls to an library database. It has various CRUD (Create, Read, Update, Delete) functionalities to maintain the system and keep it updated. It is split into two tables. A table for books and a table for categories. This system is designed to make it more convenient for libraries to store, update and maintain data. 
 
 Features:
 
